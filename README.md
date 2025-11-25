@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/8kbakshi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/8kbakshi/leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/8kbakshi/leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/8kbakshi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/8kbakshi/leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/8kbakshi/leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
