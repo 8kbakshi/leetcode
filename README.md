@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/8kbakshi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/8kbakshi/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/8kbakshi/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/8kbakshi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0283-move-zeroes) |
 | [0941-valid-mountain-array](https://github.com/8kbakshi/leetcode/tree/master/0941-valid-mountain-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/8kbakshi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2536-increment-submatrices-by-one](https://github.com/8kbakshi/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Union Find
