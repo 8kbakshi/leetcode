@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/8kbakshi/leetcode/tree/master/0525-contiguous-array) |
 | [0941-valid-mountain-array](https://github.com/8kbakshi/leetcode/tree/master/0941-valid-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/8kbakshi/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/8kbakshi/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/8kbakshi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2536-increment-submatrices-by-one](https://github.com/8kbakshi/leetcode/tree/master/2536-increment-submatrices-by-one) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/8kbakshi/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/8kbakshi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
