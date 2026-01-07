@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2536-increment-submatrices-by-one](https://github.com/8kbakshi/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/8kbakshi/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3193-count-the-number-of-inversions](https://github.com/8kbakshi/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/8kbakshi/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8kbakshi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3193-count-the-number-of-inversions](https://github.com/8kbakshi/leetcode/tree/master/3193-count-the-number-of-inversions) |
 <!---LeetCode Topics End-->
