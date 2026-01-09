@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/8kbakshi/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/8kbakshi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/8kbakshi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/8kbakshi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/8kbakshi/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -133,4 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/8kbakshi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/8kbakshi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/8kbakshi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/8kbakshi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/8kbakshi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
