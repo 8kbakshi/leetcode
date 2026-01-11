@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/8kbakshi/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/8kbakshi/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/8kbakshi/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/8kbakshi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/8kbakshi/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8kbakshi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/8kbakshi/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/8kbakshi/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/8kbakshi/leetcode/tree/master/0085-maximal-rectangle) |
 | [1672-richest-customer-wealth](https://github.com/8kbakshi/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2536-increment-submatrices-by-one](https://github.com/8kbakshi/leetcode/tree/master/2536-increment-submatrices-by-one) |
 ## Prefix Sum
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/8kbakshi/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/8kbakshi/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8kbakshi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/8kbakshi/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/8kbakshi/leetcode/tree/master/0845-longest-mountain-in-array) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/8kbakshi/leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/8kbakshi/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
