@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/8kbakshi/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3193-count-the-number-of-inversions](https://github.com/8kbakshi/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/8kbakshi/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
