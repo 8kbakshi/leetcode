@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-count-the-number-of-inversions](https://github.com/8kbakshi/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/8kbakshi/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
 | [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/8kbakshi/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
