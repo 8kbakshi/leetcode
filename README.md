@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/8kbakshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/8kbakshi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/8kbakshi/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8kbakshi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/8kbakshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/8kbakshi/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Enumeration
 |  |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0986-interval-list-intersections](https://github.com/8kbakshi/leetcode/tree/master/0986-interval-list-intersections) |
 | [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/8kbakshi/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
