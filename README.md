@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/8kbakshi/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/8kbakshi/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8kbakshi/leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/8kbakshi/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/8kbakshi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/8kbakshi/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
