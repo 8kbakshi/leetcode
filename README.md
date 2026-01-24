@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/8kbakshi/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/8kbakshi/leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/8kbakshi/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/8kbakshi/leetcode/tree/master/1895-largest-magic-square) |
 | [1920-build-array-from-permutation](https://github.com/8kbakshi/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/8kbakshi/leetcode/tree/master/1929-concatenation-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0283-move-zeroes) |
 | [0845-longest-mountain-in-array](https://github.com/8kbakshi/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/8kbakshi/leetcode/tree/master/0986-interval-list-intersections) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/8kbakshi/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/8kbakshi/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/8kbakshi/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Divide and Conquer
 |  |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/8kbakshi/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/8kbakshi/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
