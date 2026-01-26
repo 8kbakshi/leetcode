@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/8kbakshi/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0941-valid-mountain-array](https://github.com/8kbakshi/leetcode/tree/master/0941-valid-mountain-array) |
 | [0986-interval-list-intersections](https://github.com/8kbakshi/leetcode/tree/master/0986-interval-list-intersections) |
+| [1200-minimum-absolute-difference](https://github.com/8kbakshi/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/8kbakshi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/8kbakshi/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/8kbakshi/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/8kbakshi/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/8kbakshi/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [1200-minimum-absolute-difference](https://github.com/8kbakshi/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/8kbakshi/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/8kbakshi/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
