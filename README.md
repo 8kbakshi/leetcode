@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/8kbakshi/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/8kbakshi/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/8kbakshi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0878-nth-magical-number](https://github.com/8kbakshi/leetcode/tree/master/0878-nth-magical-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/8kbakshi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/8kbakshi/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/8kbakshi/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/8kbakshi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0878-nth-magical-number](https://github.com/8kbakshi/leetcode/tree/master/0878-nth-magical-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/8kbakshi/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
