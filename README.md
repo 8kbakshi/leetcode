@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/8kbakshi/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/8kbakshi/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/8kbakshi/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/8kbakshi/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/8kbakshi/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/8kbakshi/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3193-count-the-number-of-inversions](https://github.com/8kbakshi/leetcode/tree/master/3193-count-the-number-of-inversions) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/8kbakshi/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/8kbakshi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/8kbakshi/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/8kbakshi/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/8kbakshi/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/8kbakshi/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/8kbakshi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/8kbakshi/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/8kbakshi/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Tree
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/8kbakshi/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/8kbakshi/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/8kbakshi/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
