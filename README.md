@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/8kbakshi/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/8kbakshi/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/8kbakshi/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/8kbakshi/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/8kbakshi/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/8kbakshi/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
