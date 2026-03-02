@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/8kbakshi/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/8kbakshi/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/8kbakshi/leetcode/tree/master/1470-shuffle-the-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/8kbakshi/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/8kbakshi/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/8kbakshi/leetcode/tree/master/1895-largest-magic-square) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/8kbakshi/leetcode/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/8kbakshi/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/8kbakshi/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/8kbakshi/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1895-largest-magic-square](https://github.com/8kbakshi/leetcode/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/8kbakshi/leetcode/tree/master/2536-increment-submatrices-by-one) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/8kbakshi/leetcode/tree/master/0409-longest-palindrome) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/8kbakshi/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
