@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/8kbakshi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/8kbakshi/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/8kbakshi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/8kbakshi/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/8kbakshi/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8kbakshi/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0283-move-zeroes) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/8kbakshi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/8kbakshi/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/8kbakshi/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/8kbakshi/leetcode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/8kbakshi/leetcode/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/8kbakshi/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/8kbakshi/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
