@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/8kbakshi/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/8kbakshi/leetcode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/8kbakshi/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/8kbakshi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/8kbakshi/leetcode/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/8kbakshi/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/8kbakshi/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/8kbakshi/leetcode/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/8kbakshi/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/8kbakshi/leetcode/tree/master/0986-interval-list-intersections) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/8kbakshi/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/8kbakshi/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/8kbakshi/leetcode/tree/master/0455-assign-cookies) |
 | [1200-minimum-absolute-difference](https://github.com/8kbakshi/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/8kbakshi/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/8kbakshi/leetcode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/8kbakshi/leetcode/tree/master/0455-assign-cookies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/8kbakshi/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
