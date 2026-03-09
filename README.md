@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/8kbakshi/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/8kbakshi/leetcode/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/8kbakshi/leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/8kbakshi/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Union Find
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/8kbakshi/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/8kbakshi/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/8kbakshi/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/8kbakshi/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3193-count-the-number-of-inversions](https://github.com/8kbakshi/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/8kbakshi/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
