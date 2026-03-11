@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/8kbakshi/leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/8kbakshi/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/8kbakshi/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/8kbakshi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2536-increment-submatrices-by-one](https://github.com/8kbakshi/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/8kbakshi/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/8kbakshi/leetcode/tree/master/0878-nth-magical-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/8kbakshi/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/8kbakshi/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/8kbakshi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/8kbakshi/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/8kbakshi/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/8kbakshi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/8kbakshi/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Divide and Conquer
 |  |
