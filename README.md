@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/8kbakshi/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/8kbakshi/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/8kbakshi/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/8kbakshi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/8kbakshi/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/8kbakshi/leetcode/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/8kbakshi/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/8kbakshi/leetcode/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/8kbakshi/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/8kbakshi/leetcode/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/8kbakshi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/8kbakshi/leetcode/tree/master/0878-nth-magical-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/8kbakshi/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/8kbakshi/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/8kbakshi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/8kbakshi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/8kbakshi/leetcode/tree/master/0455-assign-cookies) |
 | [1200-minimum-absolute-difference](https://github.com/8kbakshi/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/8kbakshi/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/8kbakshi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/8kbakshi/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/8kbakshi/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/8kbakshi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
