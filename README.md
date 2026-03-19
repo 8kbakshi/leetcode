@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/8kbakshi/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/8kbakshi/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/8kbakshi/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/8kbakshi/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/8kbakshi/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/8kbakshi/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/8kbakshi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/8kbakshi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3477-fruits-into-baskets-ii](https://github.com/8kbakshi/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/8kbakshi/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/8kbakshi/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/8kbakshi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3453-separate-squares-i](https://github.com/8kbakshi/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/8kbakshi/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/8kbakshi/leetcode/tree/master/3454-separate-squares-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/8kbakshi/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sweep Line
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/8kbakshi/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/8kbakshi/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/8kbakshi/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Greedy
