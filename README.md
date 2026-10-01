@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/8kbakshi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/8kbakshi/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/8kbakshi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/8kbakshi/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/8kbakshi/leetcode/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/8kbakshi/leetcode/tree/master/0525-contiguous-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/8kbakshi/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/8kbakshi/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/8kbakshi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/8kbakshi/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/8kbakshi/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/8kbakshi/leetcode/tree/master/0704-binary-search) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/8kbakshi/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/8kbakshi/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/8kbakshi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/8kbakshi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/8kbakshi/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0845-longest-mountain-in-array](https://github.com/8kbakshi/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/8kbakshi/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/8kbakshi/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/8kbakshi/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
